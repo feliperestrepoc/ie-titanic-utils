@@ -29,3 +29,17 @@ pyenv
             |
             |- Isolated Python installation with both conda and pip (everyday)
 ```
+
+```
+Anaconda != Anconda Distribution != conda
+
+Anaconda inc.
+|
+|- Anconda Distribution (product)
+    |
+    |- conda (software)
+    |- pandas
+    |- scikit-learn
+    |- ...
+```
+
